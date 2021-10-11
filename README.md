@@ -1,1 +1,1 @@
-# coursera-capstone-project
+# Loan pay-off Predictor using Machine Learning
